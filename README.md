@@ -13,7 +13,7 @@ Welcome to the **Java Collections Framework** repository! This repository provid
     - [Set Interface](#set-interface.)
     - [Queue Interface](#queue-interface.)
     - [Map Interface](#map-interface.)
-4. [Comparison of Interfaces](#comparison-of-interfaces)
+4. [Comparison of Interfaces](#comparison-of-interfaces.)
 5. [Custom Implementations](#custom-implementations)
 6. [Usage Examples](#usage-examples)
 7. [Contributing](#contributing)
