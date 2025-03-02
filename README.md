@@ -12,7 +12,7 @@ Welcome to the **Java Collections Framework** repository! This repository provid
     - [List Interface](#list-interface.)
     - [Set Interface](#set-interface.)
     - [Queue Interface](#queue-interface.)
-    - [Map Interface](#map-interface)
+    - [Map Interface](#map-interface.)
 4. [Comparison of Interfaces](#comparison-of-interfaces)
 5. [Custom Implementations](#custom-implementations)
 6. [Usage Examples](#usage-examples)
