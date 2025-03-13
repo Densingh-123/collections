@@ -10,7 +10,7 @@ Welcome to the **Java Collections Framework** repository! This repository provid
 2. [Hierarchy of Collections](#hierarchy-of-collections.)
 3. [Core Interfaces and Classes](#core-interfaces-and-classes.).
     - [List Interface](#list-interface.)
-    - [Set Interface](#set-interface.).
+    - [Set Interface](#set-interface.)
     - [Queue Interface](#queue-interface.)
     - [Map Interface](#map-interface.)
 4. [Comparison of Interfaces](#comparison-of-interfaces.)
