@@ -8,7 +8,7 @@ Welcome to the **Java Collections Framework** repository! This repository provid
 
 1. [What is the Collections Framework?](#what-is-the-collections-framework.).
 2. [Hierarchy of Collections](#hierarchy-of-collections.).
-3. [Core Interfaces and Classes](#core-interfaces-and-classes.)
+3. [Core Interfaces and Classes](#core-interfaces-and-classes.).
     - [List Interface](#list-interface.)
     - [Set Interface](#set-interface.)
     - [Queue Interface](#queue-interface.)
