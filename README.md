@@ -1,4 +1,4 @@
-# Java Collections Framework!!
+# Java Collections Framework!!.
 
 Welcome to the **Java Collections Framework** repository! This repository provides a detailed explanation of all the essential concepts of the Collections Framework in Java, including practical examples for easy understanding. Dive in and master the power of data structures and algorithms with Java's built-in collections!
 
